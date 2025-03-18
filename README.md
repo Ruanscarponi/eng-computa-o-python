@@ -1,2 +1,2 @@
-# eng-computa-o-python
-aulas sobre algoritimo em python eng da computaçao 
+# eulas de python no curso de engearia de computação 
+aulas de algoritimo em pytonh 
